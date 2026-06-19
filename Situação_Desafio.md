@@ -1,4 +1,4 @@
-# Situação-Problema
+# Situação-Desafio
 
 A Alpha Tecnologia é uma empresa especializada em soluções de software para gestão empresarial. Nos últimos meses, a organização registrou um aumento significativo na quantidade de leads e oportunidades cadastradas em seu sistema de CRM.
 
