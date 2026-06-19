@@ -45,7 +45,7 @@ Demonstrar, por meio de um caso real de negócio, como a Inteligência Artificia
 
 # Sobre o Projeto
 
-O SalesCopilot IA é uma aplicação educacional desenvolvida para demonstrar, de forma prática, como a Inteligência Artificial Generativa pode ser aplicada em processos comerciais.
+O Sales IA é uma aplicação educacional desenvolvida para demonstrar, de forma prática, como a Inteligência Artificial Generativa pode ser aplicada em processos comerciais.
 
 A solução atua como um assistente inteligente capaz de analisar dados de clientes registrados em um CRM e produzir recomendações estratégicas para vendedores e gestores.
 
