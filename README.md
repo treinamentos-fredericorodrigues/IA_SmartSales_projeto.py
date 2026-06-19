@@ -1,4 +1,4 @@
-# SalesCopilot IA
+# Sales IA
 
 ## Assistente Inteligente para Prospecção, Relacionamento e Conversão de Clientes
 
