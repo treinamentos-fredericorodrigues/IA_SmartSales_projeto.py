@@ -8,6 +8,14 @@ Projeto desenvolvido para utilização em aulas de Inteligência Artificial Apli
 
 O objetivo é demonstrar como a Inteligência Artificial Generativa pode apoiar vendedores e gestores comerciais na análise de clientes, identificação de oportunidades e tomada de decisão estratégica.
 
+### Tecnologias:
+- Python
+- Inteligência Artificial Generativa
+- LLMs (Large Language Models)
+- Engenharia de Prompt
+- CRM
+- OpenAI / ChatGPT
+
 ---
 
 ## Autor
